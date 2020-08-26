@@ -1,2 +1,2 @@
-# edgetimer
+# EdgeTimer
 EdgeTimer... pretty self-explanatory ;)
